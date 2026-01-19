@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alon\\source\\repos\\ExampleJS\\book-shop back-end\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61ACD707-40F9-49F1-A727-07BC447A1FDD}|book-shop back-end.csproj|c:\\users\\alon\\source\\repos\\examplejs\\book-shop back-end\\book-shop back-end.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{61ACD707-40F9-49F1-A727-07BC447A1FDD}|book-shop back-end.csproj|solutionrelative:book-shop back-end.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61ACD707-40F9-49F1-A727-07BC447A1FDD}|book-shop back-end.csproj|c:\\users\\alon\\source\\repos\\examplejs\\book-shop back-end\\dtos\\authresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61ACD707-40F9-49F1-A727-07BC447A1FDD}|book-shop back-end.csproj|solutionrelative:dtos\\authresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61ACD707-40F9-49F1-A727-07BC447A1FDD}|book-shop back-end.csproj|c:\\users\\alon\\source\\repos\\examplejs\\book-shop back-end\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61ACD707-40F9-49F1-A727-07BC447A1FDD}|book-shop back-end.csproj|solutionrelative:controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61ACD707-40F9-49F1-A727-07BC447A1FDD}|book-shop back-end.csproj|c:\\users\\alon\\source\\repos\\examplejs\\book-shop back-end\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61ACD707-40F9-49F1-A727-07BC447A1FDD}|book-shop back-end.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61ACD707-40F9-49F1-A727-07BC447A1FDD}|book-shop back-end.csproj|c:\\users\\alon\\source\\repos\\examplejs\\book-shop back-end\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61ACD707-40F9-49F1-A727-07BC447A1FDD}|book-shop back-end.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61ACD707-40F9-49F1-A727-07BC447A1FDD}|book-shop back-end.csproj|c:\\users\\alon\\source\\repos\\examplejs\\book-shop back-end\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61ACD707-40F9-49F1-A727-07BC447A1FDD}|book-shop back-end.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61ACD707-40F9-49F1-A727-07BC447A1FDD}|book-shop back-end.csproj|c:\\users\\alon\\source\\repos\\examplejs\\book-shop back-end\\bookstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61ACD707-40F9-49F1-A727-07BC447A1FDD}|book-shop back-end.csproj|solutionrelative:bookstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61ACD707-40F9-49F1-A727-07BC447A1FDD}|book-shop back-end.csproj|c:\\users\\alon\\source\\repos\\examplejs\\book-shop back-end\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61ACD707-40F9-49F1-A727-07BC447A1FDD}|book-shop back-end.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61ACD707-40F9-49F1-A727-07BC447A1FDD}|book-shop back-end.csproj|c:\\users\\alon\\source\\repos\\examplejs\\book-shop back-end\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61ACD707-40F9-49F1-A727-07BC447A1FDD}|book-shop back-end.csproj|solutionrelative:services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 799,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "book-shop back-end",
+              "DocumentMoniker": "C:\\Users\\Alon\\source\\repos\\ExampleJS\\book-shop back-end\\book-shop back-end.csproj",
+              "RelativeDocumentMoniker": "book-shop back-end.csproj",
+              "ToolTip": "C:\\Users\\Alon\\source\\repos\\ExampleJS\\book-shop back-end\\book-shop back-end.csproj",
+              "RelativeToolTip": "book-shop back-end.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-19T14:24:33.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthResultDto.cs",
+              "DocumentMoniker": "C:\\Users\\Alon\\source\\repos\\ExampleJS\\book-shop back-end\\Dtos\\AuthResultDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\AuthResultDto.cs",
+              "ToolTip": "C:\\Users\\Alon\\source\\repos\\ExampleJS\\book-shop back-end\\Dtos\\AuthResultDto.cs",
+              "RelativeToolTip": "Dtos\\AuthResultDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T08:07:28.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\Alon\\source\\repos\\ExampleJS\\book-shop back-end\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\Alon\\source\\repos\\ExampleJS\\book-shop back-end\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Controllers\\BookController.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAA9wFcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T08:06:46.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "book.cs",
+              "DocumentMoniker": "C:\\Users\\Alon\\source\\repos\\ExampleJS\\book-shop back-end\\Models\\book.cs",
+              "RelativeDocumentMoniker": "Models\\book.cs",
+              "ToolTip": "C:\\Users\\Alon\\source\\repos\\ExampleJS\\book-shop back-end\\Models\\book.cs",
+              "RelativeToolTip": "Models\\book.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T08:06:36.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "user.cs",
+              "DocumentMoniker": "C:\\Users\\Alon\\source\\repos\\ExampleJS\\book-shop back-end\\Models\\user.cs",
+              "RelativeDocumentMoniker": "Models\\user.cs",
+              "ToolTip": "C:\\Users\\Alon\\source\\repos\\ExampleJS\\book-shop back-end\\Models\\user.cs",
+              "RelativeToolTip": "Models\\user.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T08:06:33.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookStoreContext.cs",
+              "DocumentMoniker": "C:\\Users\\Alon\\source\\repos\\ExampleJS\\book-shop back-end\\BookStoreContext.cs",
+              "RelativeDocumentMoniker": "BookStoreContext.cs",
+              "ToolTip": "C:\\Users\\Alon\\source\\repos\\ExampleJS\\book-shop back-end\\BookStoreContext.cs",
+              "RelativeToolTip": "BookStoreContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T08:06:04.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Alon\\source\\repos\\ExampleJS\\book-shop back-end\\services\\AuthService.cs",
+              "RelativeDocumentMoniker": "services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Alon\\source\\repos\\ExampleJS\\book-shop back-end\\services\\AuthService.cs",
+              "RelativeToolTip": "services\\AuthService.cs",
+              "ViewState": "AgIAALQAAAAAAAAAAAArwMMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T08:04:24.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alon\\source\\repos\\ExampleJS\\book-shop back-end\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Alon\\source\\repos\\ExampleJS\\book-shop back-end\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwF4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T07:58:12.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Alon\\source\\repos\\ExampleJS\\book-shop back-end\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Alon\\source\\repos\\ExampleJS\\book-shop back-end\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAnwCgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T07:57:52.025Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 234,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5a4e9529-b6a0-46b5-be4f-0f0b239bc0eb}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
